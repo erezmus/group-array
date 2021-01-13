@@ -1,4 +1,4 @@
-# Group number elements
+# Group array elements
 
 ## Summary
 
